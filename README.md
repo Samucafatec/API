@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# EMPRESA CONAEX
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto](#projeto-template)
+* [MAPEAMENTO DE CARGAS](#projeto-template)
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
